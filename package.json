@@ -1,0 +1,23 @@
+{
+  "name": "webcandy2-client-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "phoenix-channels": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcpreston/webcandy2-client-node.git"
+  },
+  "author": "Graham Preston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcpreston/webcandy2-client-node/issues"
+  },
+  "homepage": "https://github.com/gcpreston/webcandy2-client-node#readme"
+}
